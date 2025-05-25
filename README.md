@@ -3,8 +3,8 @@
 
 the Graphs that are use to represent the stock value includes 
 1) Closing price Graph
-2) Relative Strength Graph
-3) Exponetial Moving Graph 
+2) Relative Strength Index Graph
+3) Exponetial Moving Average Graph 
 
 Additionally, this project also include fundamental datas for the invertors to further improve their decision for investing into this stock
 
