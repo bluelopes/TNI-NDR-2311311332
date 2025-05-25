@@ -8,7 +8,7 @@ the Graphs that are use to represent the stock value includes
 
 Additionally, this project also include fundamental datas for the invertors to further improve their decision for investing into this stock
 
-### Libraries that were included in this project are at the top part in the file named main.py
+### Libraries that were included in this project are at the top part of the file named main.py
 
 
 
