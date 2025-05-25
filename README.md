@@ -13,3 +13,10 @@
 the Graphs that are use to represent the stock value includes 
 1) Closing price of the stock
 2) Relative Strgenth Index of the stock
+
+
+
+
+
+
+
