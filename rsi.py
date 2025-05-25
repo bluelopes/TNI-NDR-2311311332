@@ -1,5 +1,5 @@
 def cal_rsi(df, period = 14):
-    delta = df['ราคาปิด'].diff()
+    delta = df['Close'].diff()
     gain = delta.clip(lower=0)
     loss = -delta.clip(upper=0)
     
