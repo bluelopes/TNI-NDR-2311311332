@@ -1,5 +1,5 @@
 
-### This project represent the stock price from the past 6 months (19/05/2568) of DELTA from Delta Electronics India Manufacturing Private Limited
+### This project represent the stock price from the past 6 months (19/05/2568) of the stock "DELTA" from Delta Electronics India Manufacturing Private Limited
 
 the Graphs that are use to represent the stock value includes 
 1) Closing price Graph
