@@ -6,7 +6,7 @@
 5)matplotlib
 6)streamlit 
 7)PIL 
- 8)matplotlib.dates 
+8)matplotlib.dates 
 
 ### This project represent the stock DELTA form Delta Electronics India Manufacturing Private Limited
 
