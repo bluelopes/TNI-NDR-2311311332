@@ -10,7 +10,7 @@ Additionally, this project also include fundamental datas for the invertors to f
 
 ### Libraries that were included in this project are at the top part of the file named main.py
 
-
+https://www.canva.com/design/DAGodT5DYBk/5yF3b-sfg35XhKv8XULEeQ/edit
 
 
 
